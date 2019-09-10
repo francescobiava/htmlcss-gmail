@@ -1,0 +1,75 @@
+body{
+  background: url(../img/wallpaper.jpg);
+  margin: 20px 10%;
+}
+
+hr{
+  border: 1px solid rgba(255,255,255,0.5);
+  margin: 10px;
+}
+
+#title{
+  display: inline-block;
+  font-family: Arial;
+  font-size: 30px;
+  font-weight: 100;
+  color: #fff;
+  margin: 0px;
+  margin-left: 10px;
+}
+
+#search{
+  display: inline-block;
+  margin: 5px;
+}
+
+.searchbutton{
+  margin-left: 10px;
+  height: 25px;
+  border-radius: 20%;
+}
+
+#unread{
+  font-family: Arial;
+  font-size: 20px;
+  color: #fff;
+  margin: 5px;
+}
+
+#number{
+  background-color: rgba(239,245,66,0.7);
+  border-radius: 50%;
+}
+
+.email{
+  background: rgba(204,200,200,0.8);
+  padding: 5px;
+  font-family: Helvetica, Arial;
+  margin: 3px;
+}
+
+.oggetto{
+  font-size: 14px;
+  font-weight: 800;
+}
+
+.testo{
+  font-size: 12px;
+  color: #4F4F4F;
+}
+
+.emailletta{
+  background: rgba(255,255,255,0.8);
+}
+
+footer{
+  text-align: center;
+  font-family: verdana;
+  color: #fff;
+  font-size: 16px;
+}
+
+#copyright{
+  font-size: 12px;
+  font-style: italic;
+}
