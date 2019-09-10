@@ -1,3 +1,4 @@
+/* generali */
 body{
   background: url(../img/wallpaper.jpg);
   margin: 20px 10%;
@@ -8,6 +9,7 @@ hr{
   margin: 10px;
 }
 
+/* testata */
 #title{
   display: inline-block;
   font-family: Arial;
@@ -18,6 +20,7 @@ hr{
   margin-left: 10px;
 }
 
+/* sezione ricerca */
 #search{
   display: inline-block;
   margin: 5px;
@@ -41,6 +44,7 @@ hr{
   border-radius: 50%;
 }
 
+/* sezione email */
 .email{
   background: rgba(204,200,200,0.8);
   padding: 5px;
@@ -62,6 +66,8 @@ hr{
   background: rgba(255,255,255,0.8);
 }
 
+
+/* footer */
 footer{
   text-align: center;
   font-family: verdana;
